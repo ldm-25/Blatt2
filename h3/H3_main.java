@@ -58,7 +58,6 @@ public class H3_main {
 			k=4;
 		}
 		
-		System.out.println(k);
 		
 	}
 
