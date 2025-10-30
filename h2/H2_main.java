@@ -60,6 +60,5 @@ public class H2_main
 			}
 		}
 		
-		System.out.println("min ist"+min+" "+"max ist"+max);
 	}
 }
